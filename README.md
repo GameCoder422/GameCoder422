@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GameCoder422
 - 👀 I’m interested in C# (For Unity) and Python
 - 🌱 I’m currently learning C# and Python
-- 📫 How to reach me My gmail ctom9935@gmail.com
+- 📫 How to reach me (Working on it)
